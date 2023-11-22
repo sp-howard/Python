@@ -1,6 +1,6 @@
 # https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true
 
-# Get input of height and width
+# Get input of height and width 
 dimensions = input().split(' ')
 
 height = int(dimensions[0])
